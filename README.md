@@ -25,3 +25,8 @@ RGB operates on three channels: red, green and blue. Lab is a conversion of the 
 ### Discriminator
   
 ### Results
+
+  ![image](https://user-images.githubusercontent.com/96406063/176685572-d9e0a967-2709-49e6-80e0-de750f8b22a9.png)
+  
+  
+  
