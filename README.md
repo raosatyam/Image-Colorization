@@ -12,6 +12,8 @@ The task of colourizing black and white photographs necessitates a lot of human 
 ### RGB L*A*B
 
 RGB operates on three channels: red, green and blue. Lab is a conversion of the same information to a lightness component L*, and two color components - a* and b*. Lightness is kept separate from color, so that you can adjust one without affecting the other. "Lightness" is designed to approximate human vision, which is very sensitive to green but less to blue. If you brighten in Lab space, the result will often look more correct to the eye, color-wise. 
+![image](https://user-images.githubusercontent.com/96406063/176662878-a3327a91-ea30-4600-ac23-9bb934b30de7.png)
+
 
 ### Generator
 
