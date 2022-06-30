@@ -17,4 +17,4 @@ RGB operates on three channels: red, green and blue. Lab is a conversion of the 
 
 ### Generator
 
-###
+### Discriminator
